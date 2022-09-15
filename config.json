@@ -14,10 +14,18 @@
       },
 
       {
+        "title":"Chat",
+        "provider":"webview",
+        "arguments":[
+          "https://bit.ly/3eSSJ5p"
+        ]
+      },
+      
+      {
         "title":"EBN TV",
         "provider":"webview",
         "arguments":[
-          "https://ebn.online.church/"
+          "https://ebn.online.church"
         ]
       },
       {
