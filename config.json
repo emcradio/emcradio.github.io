@@ -6,7 +6,7 @@
     "iap":false,
     "tabs":[
       {
-        "title":"EMC Radio",
+        "title":"Radio",
         "provider":"radio",
         "arguments":[
           "https://c22.radioboss.fm:18040/stream"
