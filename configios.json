@@ -1,1 +1,39 @@
-[{"title":"EMC Radio","image":"","provider":"radio","arguments":["https://c22.radioboss.fm:18040/stream"]},{"title":"EBN TV","image":"","provider":"webview","arguments":["https://ebn.online.church/"]},{"title":"PODCASTS","image":"","provider":"rss","arguments":["https://anchor.fm/s/a55bacfc/podcast/rss"]},{"title":"MORE","image":"","provider":"webview","arguments":["https://bit.ly/3PHwywB"]}]
+[
+  {
+    "title":"Wordpress Blogs",
+    "drawable":"",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"EMC Radio",
+        "provider":"radio",
+        "arguments":[
+          "https://c22.radioboss.fm:18040/stream"
+        ]
+      },
+
+      {
+        "title":"EBN TV",
+        "provider":"webview",
+        "arguments":[
+          "https://ebn.online.church/"
+        ]
+      },
+      {
+        "title":"Podcasts",
+        "provider":"rss",
+        "arguments":[
+          "https://anchor.fm/s/a55bacfc/podcast/rss"
+        ]
+      },
+
+      {
+        "title":"MORE",
+        "provider":"webview",
+        "arguments":[
+          "https://bit.ly/3PHwywB"
+        ]
+      }
+    ]
+  },
