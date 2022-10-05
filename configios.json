@@ -1,4 +1,4 @@
-[{"title":"EMC Radio","drawable":"","submenu":"","tabs":[{"title":"EMC Radio","image":"radio.png","provider":
-                                                          "radio","arguments":["https://c22.radioboss.fm:18040/stream"]},
-                                                         {"title":"EMC Sermons","image":"podcast.png","provider":"rss","arguments":["https://anchor.fm/s/a55bacfc/podcast/rss"]},{"title":"More","image":"more.png","provider":
-"webview","arguments":["https://bit.ly/3PHwywB"]}],"iap":false}]
+[{"title":"EMC Radio","drawable":"","submenu":"","tabs":
+	[{"title":"EMC Radio","image":"radio","provider":"radio","arguments":["https://c22.radioboss.fm:18040/stream"]},
+	{"title":"EMC Sermons","image":"podcast","provider":"rss","arguments":["https://anchor.fm/s/a55bacfc/podcast/rss"]},
+	{"title":"More","image":"more","provider":"webview","arguments":["https://bit.ly/3PHwywB"]}],"iap":false}]
