@@ -1,4 +1,4 @@
 [{"title":"EMC Radio","provider":"wordpress","arguments":["",""],"drawable":"","submenu":"","iap":false,
 "tabs":[{"title":"EMC Radio","provider":"radio","arguments":["https://c22.radioboss.fm:18040/stream"]},
 {"title":"PODCASTS","provider":"rss","arguments":["https://anchor.fm/s/a55bacfc/podcast/rss"]},
-{"title":"MORE","provider":"webview","arguments":["https://bit.ly/3PHwywB"]}]}]
+{"title":"MORE","provider":"webview","arguments":["https://tinyurl.com/resourcesios"]}]}]
